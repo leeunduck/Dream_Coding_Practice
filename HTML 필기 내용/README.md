@@ -4,6 +4,8 @@
 
 <a href="https://validator.w3.org/">태그 검사기</a>
 
+<a href="https://developer.mozilla.org/ko/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure">Document and website structure</a>
+
 ```
 <!--Doctype은 html이다라고 정의한 것-->
 <!DOCTYPE html>
