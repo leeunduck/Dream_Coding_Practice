@@ -2,6 +2,8 @@
 
 <a href="https://developer.mozilla.org/ko/docs/Web/HTML">MDN HTML</a>
 
+<a href="https://validator.w3.org/">태그 검사기</a>
+
 ```
 <!--Doctype은 html이다라고 정의한 것-->
 <!DOCTYPE html>
